@@ -1,0 +1,169 @@
+[
+  {
+    "id": "starter_access",
+    "name": "Base Access",
+    "price_usd": 34.99,
+    "billing_cycle": "Monthly",
+    "contract_length": "Month-to-Month",
+    "description": "Essential gym access for the focused, budget-conscious individual.",
+    "features": [
+      {
+        "name": "Access to Home Club",
+        "included": true,
+        "details": "Unlimited access during standard operating hours."
+      },
+      {
+        "name": "Cardio & Weight Floors",
+        "included": true,
+        "details": "Access to all standard equipment."
+      },
+      {
+        "name": "Group Fitness Classes",
+        "included": false,
+        "details": "Not included. Available for a $10 drop-in fee per class."
+      },
+      {
+        "name": "Locker Room Access",
+        "included": true,
+        "details": "Standard facilities."
+      },
+      {
+        "name": "Free Wi-Fi",
+        "included": true,
+        "details": "Basic connection available for members."
+      },
+      {
+        "name": "Nutrition Coaching",
+        "included": false,
+        "details": "Requires separate add-on package."
+      },
+      {
+        "name": "Childcare Services",
+        "included": false,
+        "details": "Not included."
+      }
+    ]
+  },
+  {
+    "id": "all_club_plus",
+    "name": "Total Fitness Plan",
+    "price_usd": 59.99,
+    "billing_cycle": "Monthly",
+    "contract_length": "12-Month Commitment",
+    "annual_fee_usd": 49.0,
+    "description": "The best value, providing multi-club access and full class inclusion.",
+    "features": [
+      {
+        "name": "Access to Home Club",
+        "included": true,
+        "details": "Unlimited access 24/7 (where available)."
+      },
+      {
+        "name": "Cardio & Weight Floors",
+        "included": true,
+        "details": "Access to all standard equipment."
+      },
+      {
+        "name": "Group Fitness Classes",
+        "included": true,
+        "details": "Unlimited access to all studio and specialty classes (Spin, Yoga, HIIT)."
+      },
+      {
+        "name": "Locker Room Access",
+        "included": true,
+        "details": "Standard facilities."
+      },
+      {
+        "name": "Free Wi-Fi",
+        "included": true,
+        "details": "High-speed connection available for members."
+      },
+      {
+        "name": "Nutrition Coaching",
+        "included": false,
+        "details": "Available at a discounted rate."
+      },
+      {
+        "name": "Childcare Services",
+        "included": true,
+        "details": "Up to 2 hours per visit."
+      },
+      {
+        "name": "Multi-Club Access",
+        "included": true,
+        "details": "Access to all locations in your region."
+      },
+      {
+        "name": "Guest Privileges",
+        "included": true,
+        "details": "Bring one different guest for free per visit."
+      }
+    ]
+  },
+  {
+    "id": "vip_ultimate",
+    "name": "Performance Elite",
+    "price_usd": 129.99,
+    "billing_cycle": "Monthly",
+    "contract_length": "6-Month Commitment",
+    "upfront_fee_usd": 29.99,
+    "description": "Our premium offering with all amenities and personalized benefits.",
+    "features": [
+      {
+        "name": "Access to Home Club",
+        "included": true,
+        "details": "Unlimited access 24/7."
+      },
+      {
+        "name": "Cardio & Weight Floors",
+        "included": true,
+        "details": "Access to all standard and exclusive premium training areas."
+      },
+      {
+        "name": "Group Fitness Classes",
+        "included": true,
+        "details": "Unlimited access to all classes, plus **priority booking**."
+      },
+      {
+        "name": "Locker Room Access",
+        "included": true,
+        "details": "**Executive** locker room access (Sauna, Steam Room, Robes)."
+      },
+      {
+        "name": "Free Wi-Fi",
+        "included": true,
+        "details": "Priority, high-speed connection."
+      },
+      {
+        "name": "Nutrition Coaching",
+        "included": true,
+        "details": "One 30-minute session per month."
+      },
+      {
+        "name": "Childcare Services",
+        "included": true,
+        "details": "Unlimited complimentary access."
+      },
+      {
+        "name": "Multi-Club Access",
+        "included": true,
+        "details": "Access to all locations nationwide."
+      },
+      {
+        "name": "Guest Privileges",
+        "included": true,
+        "details": "Bring up to two different guests for free per visit."
+      },
+      {
+        "name": "Personal Training",
+        "included": true,
+        "details": "**One complimentary 60-minute session** each month."
+      },
+      {
+        "name": "Towel Service",
+        "included": true,
+        "details": "Complimentary premium towel and robe service."
+      }
+    ]
+  }
+]
