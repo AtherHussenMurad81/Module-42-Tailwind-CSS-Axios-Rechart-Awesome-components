@@ -14,10 +14,10 @@ const marksPromise = axios.get("marksData.json");
 function App() {
   return (
     <>
-      <header className="body">
+      {/* <header className="body">
         <Navbar></Navbar>
         {/* <Dauisy></Dauisy> */}
-      </header>
+
       <main>
         <Suspense fallback={<h1 className="text-4xl">loading</h1>}>
           <PriceingOption pricingPromise={pricingPromise}></PriceingOption>
